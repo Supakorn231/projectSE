@@ -267,7 +267,6 @@
             <i class="fa fa-close"></i>
           </button>
         </div>
-        <!-- End Toggle Button -->
       </div>
       <hr class="horizontal dark my-1">
       <div class="card-body pt-sm-3 pt-0 overflow-auto">
